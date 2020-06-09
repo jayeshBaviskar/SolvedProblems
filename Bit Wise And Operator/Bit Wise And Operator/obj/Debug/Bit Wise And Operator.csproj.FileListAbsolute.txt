@@ -1,0 +1,6 @@
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\bin\Debug\Bit Wise And Operator.exe.config
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\bin\Debug\Bit Wise And Operator.exe
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\bin\Debug\Bit Wise And Operator.pdb
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\obj\Debug\Bit Wise And Operator.csprojResolveAssemblyReference.cache
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\obj\Debug\Bit Wise And Operator.exe
+C:\Users\Cutiee\Desktop\Amazon\Bit Wise And Operator\Bit Wise And Operator\obj\Debug\Bit Wise And Operator.pdb

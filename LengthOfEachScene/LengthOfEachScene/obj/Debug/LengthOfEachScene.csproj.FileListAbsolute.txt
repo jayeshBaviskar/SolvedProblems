@@ -1,0 +1,6 @@
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\obj\Debug\LengthOfEachScene.csprojAssemblyReference.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\obj\Debug\LengthOfEachScene.csproj.CoreCompileInputs.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\bin\Debug\LengthOfEachScene.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\bin\Debug\LengthOfEachScene.pdb
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\obj\Debug\LengthOfEachScene.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\LengthOfEachScene\LengthOfEachScene\obj\Debug\LengthOfEachScene.pdb

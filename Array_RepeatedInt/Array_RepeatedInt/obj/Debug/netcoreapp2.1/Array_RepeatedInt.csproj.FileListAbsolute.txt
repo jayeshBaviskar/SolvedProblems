@@ -1,0 +1,11 @@
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\bin\Debug\netcoreapp2.1\Array_RepeatedInt.deps.json
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\bin\Debug\netcoreapp2.1\Array_RepeatedInt.runtimeconfig.json
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\bin\Debug\netcoreapp2.1\Array_RepeatedInt.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\bin\Debug\netcoreapp2.1\Array_RepeatedInt.dll
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\bin\Debug\netcoreapp2.1\Array_RepeatedInt.pdb
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.AssemblyInfo.cs
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.dll
+C:\Users\Jay\Desktop\Amazon\Array_RepeatedInt\Array_RepeatedInt\obj\Debug\netcoreapp2.1\Array_RepeatedInt.pdb

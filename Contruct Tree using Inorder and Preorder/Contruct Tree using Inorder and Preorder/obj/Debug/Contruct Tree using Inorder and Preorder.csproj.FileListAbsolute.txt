@@ -1,0 +1,6 @@
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\bin\Debug\Contruct Tree using Inorder and Preorder.exe.config
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\bin\Debug\Contruct Tree using Inorder and Preorder.exe
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\bin\Debug\Contruct Tree using Inorder and Preorder.pdb
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\obj\Debug\Contruct Tree using Inorder and Preorder.csprojResolveAssemblyReference.cache
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\obj\Debug\Contruct Tree using Inorder and Preorder.exe
+C:\Users\Cutiee\Desktop\Amazon\Contruct Tree using Inorder and Preorder\Contruct Tree using Inorder and Preorder\obj\Debug\Contruct Tree using Inorder and Preorder.pdb

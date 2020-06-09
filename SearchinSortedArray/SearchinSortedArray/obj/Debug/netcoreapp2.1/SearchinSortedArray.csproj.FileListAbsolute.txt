@@ -1,0 +1,11 @@
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\bin\Debug\netcoreapp2.1\SearchinSortedArray.deps.json
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\bin\Debug\netcoreapp2.1\SearchinSortedArray.runtimeconfig.json
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\bin\Debug\netcoreapp2.1\SearchinSortedArray.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\bin\Debug\netcoreapp2.1\SearchinSortedArray.dll
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\bin\Debug\netcoreapp2.1\SearchinSortedArray.pdb
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.AssemblyInfo.cs
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.dll
+C:\Users\Jay\Desktop\Amazon\SearchinSortedArray\SearchinSortedArray\obj\Debug\netcoreapp2.1\SearchinSortedArray.pdb

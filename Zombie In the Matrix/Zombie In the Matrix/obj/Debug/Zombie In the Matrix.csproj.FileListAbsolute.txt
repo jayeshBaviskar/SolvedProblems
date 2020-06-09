@@ -1,0 +1,6 @@
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\bin\Debug\Zombie In the Matrix.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\bin\Debug\Zombie In the Matrix.pdb
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\obj\Debug\Zombie In the Matrix.csprojAssemblyReference.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\obj\Debug\Zombie In the Matrix.csproj.CoreCompileInputs.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\obj\Debug\Zombie In the Matrix.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\Zombie In the Matrix\Zombie In the Matrix\obj\Debug\Zombie In the Matrix.pdb

@@ -1,0 +1,13 @@
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.exe.config
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.exe
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.pdb
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.csprojResolveAssemblyReference.cache
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.exe
+C:\Users\Cutiee\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.pdb
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.exe.config
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.exe
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\bin\Debug\Delete Element from Sorted Array.pdb
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.exe
+C:\Users\Jay\Desktop\Amazon\Delete Element from Sorted Array\Delete Element from Sorted Array\obj\Debug\Delete Element from Sorted Array.pdb

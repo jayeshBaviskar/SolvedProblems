@@ -1,0 +1,12 @@
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.exe.config
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.exe
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.pdb
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.exe
+C:\Users\Cutiee\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.exe.config
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.exe
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.exe
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\bin\Debug\Quick Sort Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\Quick Sort Using C Sharp\Quick Sort Using C Sharp\obj\Debug\Quick Sort Using C Sharp.csprojResolveAssemblyReference.cache

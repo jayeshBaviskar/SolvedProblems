@@ -1,0 +1,6 @@
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\bin\Debug\1s_and_0s.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\bin\Debug\1s_and_0s.pdb
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\obj\Debug\1s_and_0s.csprojAssemblyReference.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\obj\Debug\1s_and_0s.csproj.CoreCompileInputs.cache
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\obj\Debug\1s_and_0s.exe
+F:\Study Tutorials\Amazon_Preparation\SolvedQuestions\1s_and_0s\1s_and_0s\obj\Debug\1s_and_0s.pdb

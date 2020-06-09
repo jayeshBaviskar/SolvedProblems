@@ -1,0 +1,11 @@
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\bin\Debug\netcoreapp2.1\DFS_Graph_CSharp.deps.json
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\bin\Debug\netcoreapp2.1\DFS_Graph_CSharp.runtimeconfig.json
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\bin\Debug\netcoreapp2.1\DFS_Graph_CSharp.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\bin\Debug\netcoreapp2.1\DFS_Graph_CSharp.dll
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\bin\Debug\netcoreapp2.1\DFS_Graph_CSharp.pdb
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.AssemblyInfo.cs
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.dll
+C:\Users\Jay\Desktop\Amazon\DFS_Graph_CSharp\DFS_Graph_CSharp\obj\Debug\netcoreapp2.1\DFS_Graph_CSharp.pdb

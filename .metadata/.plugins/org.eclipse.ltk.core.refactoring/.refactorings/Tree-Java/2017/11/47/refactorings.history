@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;BTreePrinterTest.java&apos; to &apos;BTreePrinter.java&apos;&#x0D;&#x0A;- Original project: &apos;Tree-Java&apos;&#x0D;&#x0A;- Original element: &apos;BTreePrinterTest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;BTreePrinter.java&apos;" description="Rename compilation unit &apos;BTreePrinterTest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{BTreePrinterTest.java" name="BTreePrinter.java" references="false" stamp="1511435338804" version="1.0"/>
+</session>

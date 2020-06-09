@@ -1,0 +1,11 @@
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\bin\Debug\netcoreapp2.1\ReverseLinkedListByArgument.deps.json
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\bin\Debug\netcoreapp2.1\ReverseLinkedListByArgument.runtimeconfig.json
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\bin\Debug\netcoreapp2.1\ReverseLinkedListByArgument.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\bin\Debug\netcoreapp2.1\ReverseLinkedListByArgument.dll
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\bin\Debug\netcoreapp2.1\ReverseLinkedListByArgument.pdb
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.AssemblyInfo.cs
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.dll
+C:\Users\Jay\Desktop\Amazon\ReverseLinkedListByArgument\ReverseLinkedListByArgument\obj\Debug\netcoreapp2.1\ReverseLinkedListByArgument.pdb

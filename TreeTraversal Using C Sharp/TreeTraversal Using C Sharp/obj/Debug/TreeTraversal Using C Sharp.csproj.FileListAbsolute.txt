@@ -1,0 +1,12 @@
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.exe.config
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.exe
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.pdb
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.exe
+C:\Users\Cutiee\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.exe.config
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.exe
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.exe
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\bin\Debug\TreeTraversal Using C Sharp.pdb
+C:\Users\Jay\Desktop\Amazon\TreeTraversal Using C Sharp\TreeTraversal Using C Sharp\obj\Debug\TreeTraversal Using C Sharp.csprojResolveAssemblyReference.cache
