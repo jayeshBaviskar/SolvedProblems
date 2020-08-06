@@ -9,33 +9,11 @@ namespace _8.String_to_Integer__atoi_
         {
             Console.WriteLine(MyAtoi("-91283472332"));
             Console.Read();
-        }
-
-
-        public IList<string> SimplifiedFractions(int n)
-        {
-
-            List<string> result = new List<String>();
-
-            for (int i = 1; i < n; i++)
-            {
-                for (int j = i + 1; j <= n; j++)
-                {
-                    if ((i / (float)j) > && (i / (float)j) < 1)
-                    {
-                        result.Add(i + "/" + j);
-                    }
-                }
-            }
-
-            return result;
-
-        }
-
+        }      
 
         public static int MyAtoi(string str)
         {
-            int lastResult = 0;            
+            int lastResult = 0;
             bool isNegative = false;
             str = str.Trim();
             int result;
@@ -55,10 +33,10 @@ namespace _8.String_to_Integer__atoi_
                         Console.WriteLine("Val : " + result);
                         int prev = lastResult;
 
-                        long test = ( (long)lastResult * 10) + result;
+                        long test = ((long)lastResult * 10) + result;
                         lastResult = (lastResult * 10) + result;
 
-                        Console.WriteLine("Test {0}, Last Result {1} ",  test, lastResult);
+                        Console.WriteLine("Test {0}, Last Result {1} ", test, lastResult);
                         if (test != lastResult)
                         {
                             Console.WriteLine("LastResult was : " + lastResult.ToString());
