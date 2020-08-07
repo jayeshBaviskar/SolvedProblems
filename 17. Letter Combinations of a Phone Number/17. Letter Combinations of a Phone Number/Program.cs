@@ -8,10 +8,9 @@ namespace _17._Letter_Combinations_of_a_Phone_Number
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            List<String> results =   letterCombinations("23");
+            List<String> results = letterCombinations("23");
             Console.WriteLine(results.ToString());
             Console.Read();
-
         }
 
         public static List<String> letterCombinations(String digits)
@@ -24,11 +23,15 @@ namespace _17._Letter_Combinations_of_a_Phone_Number
                 return result;
             }
 
-            result.Add("");
-
-            for (int i = 0; i < digits.Length; i++)
+            String chars = mapping[Convert.ToInt32(digits[0].ToString())];
+            for (int i = 0; i < chars.Length; i++)
             {
-                List<String> temp = new List<String>();                
+                result.Add(chars[i].ToString());
+            }
+
+            for (int i = 1; i < digits.Length; i++)
+            {
+                List<String> temp = new List<String>();
                 String option = mapping[Convert.ToInt32(digits[i].ToString())];
 
                 for (int j = 0; j < result.Count; j++)
