@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1504. Count Submatrices With All Ones", "1504. Count Submatrices With All Ones\1504. Count Submatrices With All Ones.csproj", "{5DF39C50-490E-4C0A-84A9-9A199C8395CB}"
 EndProject
