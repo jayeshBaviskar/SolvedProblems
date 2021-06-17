@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace CriticalRouters
 {
-    class CriticalConnectionClass
+    internal class CriticalConnectionClass
     {
-        int time = 0;
-        List<List<int>> ret = new List<List<int>>();
+        private int time = 0;
+        private List<List<int>> ret = new List<List<int>>();
+
         public List<List<int>> CriticalConnections(int n, List<List<int>> connections)
         {
             var low = new int[n];
@@ -18,6 +18,9 @@ namespace CriticalRouters
             var dict = new Dictionary<int, List<int>>();
             foreach (var val in connections)
             {
+                --val[0];
+                --val[1];
+
                 if (!dict.ContainsKey(val[0]))
                     dict.Add(val[0], new List<int>());
                 dict[val[0]].Add(val[1]);
@@ -32,30 +35,33 @@ namespace CriticalRouters
             }
             return ret;
         }
+
         private void dfs(int u, int[] low, int[] visited, Dictionary<int, List<int>> dict, int pre)
         {
             visited[u] = ++time;
             low[u] = time;
-            for (int j = 0; j < dict[u].Count; j++)
+            if (dict.ContainsKey(u))
             {
-                int v = dict[u][j];
-                if (v == pre)
-                    continue;
-                if (visited[v] == -1)
+                for (int j = 0; j < dict[u].Count; j++)
                 {
-                    dfs(v, low, visited, dict, u);
-                    low[u] = Math.Min(low[v], low[u]);
-                    if (low[v] > visited[u])
+                    int v = dict[u][j];
+                    if (v == pre)
+                        continue;
+                    if (visited[v] == -1)
                     {
-                        ret.Add(new List<int> { u, v });
+                        dfs(v, low, visited, dict, u);
+                        low[u] = Math.Min(low[v], low[u]);
+                        if (low[v] > visited[u])
+                        {
+                            ret.Add(new List<int> { u, v });
+                        }
+                    }
+                    else
+                    {
+                        low[u] = Math.Min(low[u], visited[v]);
                     }
                 }
-                else
-                {
-                    low[u] = Math.Min(low[u], visited[v]);
-                }
             }
-
         }
     }
 }
