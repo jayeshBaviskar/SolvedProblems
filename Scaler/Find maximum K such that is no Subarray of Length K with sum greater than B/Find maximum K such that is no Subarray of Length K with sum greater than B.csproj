@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Find_maximum_K_such_that_is_no_Subarray_of_Length_K_with_sum_greater_than_B</RootNamespace>
+  </PropertyGroup>
+
+</Project>

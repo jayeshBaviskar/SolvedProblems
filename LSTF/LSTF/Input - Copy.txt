@@ -1,0 +1,4 @@
+﻿TaskID,Arrival,duration,deadline
+T1,0,10,33
+T2,4,3,28
+T3,5,10,29
